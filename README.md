@@ -4,23 +4,6 @@
 
 > **Important:** HealthConnect is not a medical device, emergency service, or substitute for professional care. The AI guide does not diagnose or prescribe. Appointment entries are requests, and an emergency callback form does not contact emergency responders. The in-app Privacy & Terms page also states that this build is not a representation of HIPAA compliance and that clinician/hospital record sharing is not active. Do not use this project with real patient information until its infrastructure, security, legal obligations, and operational workflows have been independently reviewed.
 
-## Contents
-
-- [Features](#features)
-- [Technology stack](#technology-stack)
-- [How the application works](#how-the-application-works)
-- [Repository structure](#repository-structure)
-- [Requirements](#requirements)
-- [Getting started](#getting-started)
-- [Environment variables](#environment-variables)
-- [Supabase and storage setup](#supabase-and-storage-setup)
-- [Routes and API](#routes-and-api)
-- [Development commands](#development-commands)
-- [Security and privacy notes](#security-and-privacy-notes)
-- [Limitations](#limitations)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
