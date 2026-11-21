@@ -4,7 +4,6 @@
 
 > **Important:** HealthConnect is not a medical device, emergency service, or substitute for professional care. The AI guide does not diagnose or prescribe. Appointment entries are requests, and an emergency callback form does not contact emergency responders. The in-app Privacy & Terms page also states that this build is not a representation of HIPAA compliance and that clinician/hospital record sharing is not active. Do not use this project with real patient information until its infrastructure, security, legal obligations, and operational workflows have been independently reviewed.
 
-
 ## Features
 
 ### Patient portal
